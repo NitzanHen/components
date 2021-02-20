@@ -4,7 +4,7 @@ The idea - to create a set of reusable, easily customizable, well tested compone
 
 ## 🎯 Design Principles
 
-### 🏺Reusability
+### 🏺 Reusability
 
 It should be easy to add the components to every new project; this breaks down into multiple considerations: 
 
