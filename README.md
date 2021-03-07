@@ -32,13 +32,15 @@ React components will be written with Typescript; as for web components, I'm not
 
 ## Inputs
 
-- Checkbox
-- Radio button
-- Select
-- Date picker
+- [ ] Checkbox
+- [ ] Radio button
+- [ ] Select
+- [ ] Date picker
 
-- Button
-- Skeleton
-- Custom scrollbar
-- Table
-- Timeline (todo: find a name. Equivalent of [https://material-ui.com/components/timeline/](https://material-ui.com/components/timeline/))
+## Others 
+
+- [ ] Button
+- [ ] Skeleton
+- [ ] Custom scrollbar
+- [ ] Table
+- [ ] Timeline (todo: find a name. Equivalent of [https://material-ui.com/components/timeline/](https://material-ui.com/components/timeline/))
